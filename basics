@@ -1,0 +1,90 @@
+
+1. pwd
+	//present working directory information
+
+2. cal
+	//Date
+3.whoami
+	//current user
+
+4.touch filename1 filename2
+	//ctreates multiple files
+
+5.cp source dest
+	//copy the file
+
+6.cp source1 source2 destdir
+	//copy multiple file into directory
+
+7.cp -r dirname ~/downloads/raj
+
+	//copy from directory
+8.mv source dest
+
+	//move the file source to dest
+9.wc file
+	//gives line word letter
+
+10.w
+	//gives the infornmation about user exeuted commands
+
+11.lastb
+	//unsuccesful login attempts as a root user
+
+12. history
+	//gives all commads entered so far
+
+
+13.cat
+	//used to accept data from output console
+
+14.cat > filename.txt
+	//redirect an input from console to the file
+
+15.cat >> filename.txt
+	//append the data from console to the file
+16.id
+	//to see the uid and gid
+
+17.chmod a+w filename
+	//add write permission to all users of the file
+18.chmod g-r filename
+	//remove read permission to group users of the file
+
+19.diff file1 file2
+
+	//shoes the diffrent between two files
+
+20: tr 'a-z' 'A-Z' < filename
+
+	//changing the case of the input file
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
